@@ -1,6 +1,6 @@
 # ~~~ portfolio theory ~~~
 # ~ laod data ~
-# Load relevant packages
+# Load relevant packages 
 library("PerformanceAnalytics")
 library("zoo")
 

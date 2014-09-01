@@ -1,4 +1,4 @@
-# 1 
+# 1 monthly return
 # -load the monthly Starbucks return data
 data_url = "http://faculty.washington.edu/ezivot/econ424/sbuxPrices.csv"
 sbux_df  = read.csv(file=data_url, header=TRUE, stringsAsFactors=FALSE)
