@@ -1,4 +1,4 @@
-# install.packages("Quandl")
+install.packages("Quandl")
 library(Quandl)
 library(quantmod)
 # Quandl - A first date
